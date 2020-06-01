@@ -1,0 +1,31 @@
+
+front-end 
+
+    - SSR - Server Side Rendering - (React Renderizado)
+    - HTML , CSS e Javascript
+    - requisições assíncronas, formularios
+            - Origem da requisição
+            - Destino da requisição
+            - Metado da requisição
+            - Corpo da mensagem
+            - StatusCode - 200 ok,206 streaming - 404, 401 não encontrado
+            - resposta
+
+    - XHR - XMLHTTpRequest
+
+    
+
+
+
+
+
+
+
+
+
+
+   index : listar registro (para todos)
+   show : exibir registro (unico)
+   store : criar registro
+   update : Alterar registro
+   destroy : Remover registro
