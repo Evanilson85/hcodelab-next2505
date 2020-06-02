@@ -20,7 +20,7 @@ export default function Register(){
     const handleFormsubmit = e =>{
       e.preventDefault()
 
-      Axios.post(`https://hcodelab-adonis.herokuapp.com/auths`, values)
+      Axios.post(`https://hcodelab-adonis.herokuapp.com/users`, values)
       .then( res => {
         console.log("parabens dados cadastratdos",res)
 
